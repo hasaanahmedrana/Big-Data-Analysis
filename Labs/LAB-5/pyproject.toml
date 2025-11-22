@@ -1,0 +1,14 @@
+[project]
+name = "lab-5"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cassandra-driver>=3.29.3",
+    "cryptography>=46.0.3",
+    "faker>=38.0.0",
+    "pandas>=2.3.3",
+    "pymysql>=1.1.2",
+    "sqlalchemy>=2.0.44",
+]
