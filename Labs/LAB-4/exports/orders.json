@@ -1,0 +1,237 @@
+[
+    {
+        "_id": "691667753ea03640d1dd0529",
+        "userId": "691667743ea03640d1dd04dd",
+        "items": [
+            {
+                "bookId": "691667743ea03640d1dd0514",
+                "qty": 1,
+                "priceAtPurchase": 219.1
+            },
+            {
+                "bookId": "691667743ea03640d1dd04f1",
+                "qty": 1,
+                "priceAtPurchase": 324.2
+            },
+            {
+                "bookId": "691667743ea03640d1dd0503",
+                "qty": 1,
+                "priceAtPurchase": 93.8
+            }
+        ],
+        "status": "DELIVERED",
+        "shippingAddress": "132 Reynolds Light Apt. 883\nSaraburgh, AZ 57137",
+        "payment": {
+            "method": "Credit Card",
+            "paidAt": "2025-10-28T23:19:17.004000"
+        },
+        "createdAt": "2025-10-28T23:19:17.004000",
+        "deliveredAt": "2025-10-31T23:19:17.004000"
+    },
+    {
+        "_id": "691667753ea03640d1dd052a",
+        "userId": "691667743ea03640d1dd04e6",
+        "items": [
+            {
+                "bookId": "691667743ea03640d1dd0526",
+                "qty": 1,
+                "priceAtPurchase": 192.7
+            },
+            {
+                "bookId": "691667743ea03640d1dd0502",
+                "qty": 2,
+                "priceAtPurchase": 266.1
+            },
+            {
+                "bookId": "691667743ea03640d1dd050a",
+                "qty": 1,
+                "priceAtPurchase": 132.1
+            }
+        ],
+        "status": "CANCELLED",
+        "shippingAddress": "20702 Regina Pine\nSouth Jamieberg, NC 08075",
+        "payment": {
+            "method": "Cash",
+            "paidAt": "2025-10-14T23:19:17.004000"
+        },
+        "createdAt": "2025-10-14T23:19:17.004000",
+        "deliveredAt": "2025-10-20T23:19:17.004000"
+    },
+    {
+        "_id": "691667753ea03640d1dd052b",
+        "userId": "691667743ea03640d1dd04e5",
+        "items": [
+            {
+                "bookId": "691667743ea03640d1dd04ee",
+                "qty": 3,
+                "priceAtPurchase": 75.2
+            }
+        ],
+        "status": "DELIVERED",
+        "shippingAddress": "USS Wells\nFPO AE 68758",
+        "payment": {
+            "method": "Credit Card",
+            "paidAt": null
+        },
+        "createdAt": "2025-10-17T23:19:17.004000",
+        "deliveredAt": null
+    },
+    {
+        "_id": "691667753ea03640d1dd052c",
+        "userId": "691667743ea03640d1dd04e7",
+        "items": [
+            {
+                "bookId": "691667743ea03640d1dd0522",
+                "qty": 3,
+                "priceAtPurchase": 300.8
+            },
+            {
+                "bookId": "691667743ea03640d1dd0523",
+                "qty": 2,
+                "priceAtPurchase": 341.1
+            }
+        ],
+        "status": "DELIVERED",
+        "shippingAddress": "290 Mary Spur\nSouth Michele, MO 22577",
+        "payment": {
+            "method": "Credit Card",
+            "paidAt": null
+        },
+        "createdAt": "2025-11-07T23:19:17.004000",
+        "deliveredAt": "2025-11-13T23:19:17.004000"
+    },
+    {
+        "_id": "691667753ea03640d1dd052d",
+        "userId": "691667743ea03640d1dd04e3",
+        "items": [
+            {
+                "bookId": "691667743ea03640d1dd0524",
+                "qty": 2,
+                "priceAtPurchase": 495.2
+            },
+            {
+                "bookId": "691667743ea03640d1dd0527",
+                "qty": 1,
+                "priceAtPurchase": 106.9
+            }
+        ],
+        "status": "DELIVERED",
+        "shippingAddress": "64546 Jessica Roads Apt. 313\nNicoleton, PR 81892",
+        "payment": {
+            "method": "Credit Card",
+            "paidAt": null
+        },
+        "createdAt": "2025-10-14T23:19:17.004000",
+        "deliveredAt": "2025-10-22T23:19:17.004000"
+    },
+    {
+        "_id": "691667753ea03640d1dd052e",
+        "userId": "691667743ea03640d1dd04e2",
+        "items": [
+            {
+                "bookId": "691667743ea03640d1dd0524",
+                "qty": 1,
+                "priceAtPurchase": 495.2
+            }
+        ],
+        "status": "CANCELLED",
+        "shippingAddress": "09260 Kevin Trail Suite 271\nNew Kimberlyside, ID 91021",
+        "payment": {
+            "method": "PayPal",
+            "paidAt": null
+        },
+        "createdAt": "2025-11-06T23:19:17.004000",
+        "deliveredAt": null
+    },
+    {
+        "_id": "691667753ea03640d1dd052f",
+        "userId": "691667743ea03640d1dd04e7",
+        "items": [
+            {
+                "bookId": "691667743ea03640d1dd04f5",
+                "qty": 3,
+                "priceAtPurchase": 95.5
+            },
+            {
+                "bookId": "691667743ea03640d1dd0513",
+                "qty": 1,
+                "priceAtPurchase": 310.8
+            },
+            {
+                "bookId": "691667743ea03640d1dd050b",
+                "qty": 1,
+                "priceAtPurchase": 64.9
+            }
+        ],
+        "status": "PAID",
+        "shippingAddress": "290 Mary Spur\nSouth Michele, MO 22577",
+        "payment": {
+            "method": "Cash",
+            "paidAt": null
+        },
+        "createdAt": "2025-11-08T23:19:17.004000",
+        "deliveredAt": null
+    },
+    {
+        "_id": "691667753ea03640d1dd0530",
+        "userId": "691667743ea03640d1dd04e6",
+        "items": [
+            {
+                "bookId": "691667743ea03640d1dd04f0",
+                "qty": 3,
+                "priceAtPurchase": 51.2
+            },
+            {
+                "bookId": "691667743ea03640d1dd04fc",
+                "qty": 1,
+                "priceAtPurchase": 190.2
+            }
+        ],
+        "status": "PAID",
+        "shippingAddress": "20702 Regina Pine\nSouth Jamieberg, NC 08075",
+        "payment": {
+            "method": "Cash",
+            "paidAt": "2025-11-09T23:19:17.005000"
+        },
+        "createdAt": "2025-11-09T23:19:17.005000",
+        "deliveredAt": null
+    },
+    {
+        "_id": "691667753ea03640d1dd0531",
+        "userId": "691667743ea03640d1dd04e3",
+        "items": [
+            {
+                "bookId": "691667743ea03640d1dd0501",
+                "qty": 2,
+                "priceAtPurchase": 475.6
+            }
+        ],
+        "status": "PAID",
+        "shippingAddress": "64546 Jessica Roads Apt. 313\nNicoleton, PR 81892",
+        "payment": {
+            "method": "Credit Card",
+            "paidAt": "2025-10-17T23:19:17.005000"
+        },
+        "createdAt": "2025-10-17T23:19:17.005000",
+        "deliveredAt": null
+    },
+    {
+        "_id": "691667753ea03640d1dd0532",
+        "userId": "691667743ea03640d1dd04df",
+        "items": [
+            {
+                "bookId": "691667743ea03640d1dd0503",
+                "qty": 1,
+                "priceAtPurchase": 93.8
+            }
+        ],
+        "status": "SHIPPED",
+        "shippingAddress": "90933 Richard Ridges Suite 278\nNorth Timothyhaven, MT 54015",
+        "payment": {
+            "method": "PayPal",
+            "paidAt": "2025-11-08T23:19:17.005000"
+        },
+        "createdAt": "2025-11-08T23:19:17.005000",
+        "deliveredAt": "2025-11-10T23:19:17.005000"
+    }
+]

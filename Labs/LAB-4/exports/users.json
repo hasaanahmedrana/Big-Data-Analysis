@@ -1,0 +1,112 @@
+[
+    {
+        "_id": "691667743ea03640d1dd04dc",
+        "name": "Mark Harvey",
+        "email": "alexandria00@example.com",
+        "phone": "(406)835-6280x834",
+        "role": "customer",
+        "addresses": [
+            "2800 Shannon Harbor\nPort Samantha, CA 40499"
+        ],
+        "createdAt": "2025-11-13T23:19:16.887000"
+    },
+    {
+        "_id": "691667743ea03640d1dd04dd",
+        "name": "Melissa Bailey",
+        "email": "vjackson@example.org",
+        "phone": "745-955-1566",
+        "role": "vendor",
+        "addresses": [
+            "132 Reynolds Light Apt. 883\nSaraburgh, AZ 57137"
+        ],
+        "createdAt": "2025-11-13T23:19:16.888000"
+    },
+    {
+        "_id": "691667743ea03640d1dd04de",
+        "name": "Tiffany Miranda",
+        "email": "kevinbarrett@example.org",
+        "phone": "468.762.6705",
+        "role": "admin",
+        "addresses": [
+            "28460 Robert Highway Suite 186\nNew Anthonyborough, UT 65784"
+        ],
+        "createdAt": "2025-11-13T23:19:16.888000"
+    },
+    {
+        "_id": "691667743ea03640d1dd04df",
+        "name": "David Bennett",
+        "email": "burnskristina@example.org",
+        "phone": "529.491.4250",
+        "role": "vendor",
+        "addresses": [
+            "90933 Richard Ridges Suite 278\nNorth Timothyhaven, MT 54015"
+        ],
+        "createdAt": "2025-11-13T23:19:16.889000"
+    },
+    {
+        "_id": "691667743ea03640d1dd04e0",
+        "name": "Randall Whitney",
+        "email": "rebeccafoster@example.net",
+        "phone": "295.201.2085",
+        "role": "admin",
+        "addresses": [
+            "919 Mandy Brook\nSouth Amanda, HI 50681"
+        ],
+        "createdAt": "2025-11-13T23:19:16.889000"
+    },
+    {
+        "_id": "691667743ea03640d1dd04e1",
+        "name": "Jesse Benson",
+        "email": "rogersbrianna@example.org",
+        "phone": "(938)243-0548x667",
+        "role": "vendor",
+        "addresses": [
+            "PSC 8581, Box 0448\nAPO AA 83370"
+        ],
+        "createdAt": "2025-11-13T23:19:16.890000"
+    },
+    {
+        "_id": "691667743ea03640d1dd04e2",
+        "name": "John Dorsey",
+        "email": "robert17@example.net",
+        "phone": "(937)738-7753x0862",
+        "role": "admin",
+        "addresses": [
+            "09260 Kevin Trail Suite 271\nNew Kimberlyside, ID 91021"
+        ],
+        "createdAt": "2025-11-13T23:19:16.890000"
+    },
+    {
+        "_id": "691667743ea03640d1dd04e3",
+        "name": "Zachary Smith",
+        "email": "zpreston@example.com",
+        "phone": "843-636-8903",
+        "role": "customer",
+        "addresses": [
+            "64546 Jessica Roads Apt. 313\nNicoleton, PR 81892"
+        ],
+        "createdAt": "2025-11-13T23:19:16.890000"
+    },
+    {
+        "_id": "691667743ea03640d1dd04e4",
+        "name": "James Ray",
+        "email": "brian35@example.org",
+        "phone": "001-320-378-6004x59914",
+        "role": "customer",
+        "addresses": [
+            "663 Patterson Spring Suite 598\nStaceymouth, MP 50098"
+        ],
+        "createdAt": "2025-11-13T23:19:16.891000"
+    },
+    {
+        "_id": "691667743ea03640d1dd04e5",
+        "name": "George Webster",
+        "email": "valdezstephanie@example.org",
+        "phone": "001-230-947-6589x292",
+        "role": "customer",
+        "addresses": [
+            "USS Wells\nFPO AE 68758"
+        ],
+        "createdAt": "2025-11-13T23:19:16.891000"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "_id": "691667743ea03640d1dd04e8",
+        "name": "Newton-Adams",
+        "legalName": "and Sons",
+        "city": "Paulfurt",
+        "tags": [
+            "Fiction",
+            "AI"
+        ],
+        "rating": 1.3,
+        "status": "SUSPENDED",
+        "createdAt": "2025-11-13T23:19:16.964000"
+    },
+    {
+        "_id": "691667743ea03640d1dd04e9",
+        "name": "King Inc",
+        "legalName": "PLC",
+        "city": "Port Raymondmouth",
+        "tags": [
+            "Fiction",
+            "Books"
+        ],
+        "rating": 4.5,
+        "status": "SUSPENDED",
+        "createdAt": "2025-11-13T23:19:16.964000"
+    },
+    {
+        "_id": "691667743ea03640d1dd04ea",
+        "name": "Orr, Wright and Downs",
+        "legalName": "and Sons",
+        "city": "Davishaven",
+        "tags": [
+            "AI",
+            "Education"
+        ],
+        "rating": 1.4,
+        "status": "ACTIVE",
+        "createdAt": "2025-11-13T23:19:16.965000"
+    },
+    {
+        "_id": "691667743ea03640d1dd04eb",
+        "name": "Collins, Lopez and Shaw",
+        "legalName": "Group",
+        "city": "Brandonfurt",
+        "tags": [
+            "Fiction",
+            "Books"
+        ],
+        "rating": 3.3,
+        "status": "ACTIVE",
+        "createdAt": "2025-11-13T23:19:16.965000"
+    },
+    {
+        "_id": "691667743ea03640d1dd04ec",
+        "name": "Shaw and Sons",
+        "legalName": "Ltd",
+        "city": "East Carl",
+        "tags": [
+            "Science",
+            "AI"
+        ],
+        "rating": 3.2,
+        "status": "SUSPENDED",
+        "createdAt": "2025-11-13T23:19:16.965000"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "_id": "691667753ea03640d1dd05f1",
+        "bookId": "691667743ea03640d1dd050a",
+        "vendorId": "691667743ea03640d1dd04eb",
+        "delta": 0,
+        "reason": "sale",
+        "createdAt": "2025-11-13T23:19:17.021000"
+    },
+    {
+        "_id": "691667753ea03640d1dd05f2",
+        "bookId": "691667743ea03640d1dd0524",
+        "vendorId": "691667743ea03640d1dd04ea",
+        "delta": 1,
+        "reason": "adjustment",
+        "createdAt": "2025-11-13T23:19:17.021000"
+    },
+    {
+        "_id": "691667753ea03640d1dd05f3",
+        "bookId": "691667743ea03640d1dd04f2",
+        "vendorId": "691667743ea03640d1dd04ec",
+        "delta": -4,
+        "reason": "return",
+        "createdAt": "2025-11-13T23:19:17.021000"
+    },
+    {
+        "_id": "691667753ea03640d1dd05f4",
+        "bookId": "691667743ea03640d1dd0518",
+        "vendorId": "691667743ea03640d1dd04eb",
+        "delta": 10,
+        "reason": "return",
+        "createdAt": "2025-11-13T23:19:17.021000"
+    },
+    {
+        "_id": "691667753ea03640d1dd05f5",
+        "bookId": "691667743ea03640d1dd051a",
+        "vendorId": "691667743ea03640d1dd04e9",
+        "delta": 5,
+        "reason": "sale",
+        "createdAt": "2025-11-13T23:19:17.021000"
+    },
+    {
+        "_id": "691667753ea03640d1dd05f6",
+        "bookId": "691667743ea03640d1dd04f5",
+        "vendorId": "691667743ea03640d1dd04e8",
+        "delta": 6,
+        "reason": "sale",
+        "createdAt": "2025-11-13T23:19:17.021000"
+    },
+    {
+        "_id": "691667753ea03640d1dd05f7",
+        "bookId": "691667743ea03640d1dd0525",
+        "vendorId": "691667743ea03640d1dd04ec",
+        "delta": 8,
+        "reason": "sale",
+        "createdAt": "2025-11-13T23:19:17.021000"
+    },
+    {
+        "_id": "691667753ea03640d1dd05f8",
+        "bookId": "691667743ea03640d1dd04fc",
+        "vendorId": "691667743ea03640d1dd04e8",
+        "delta": 2,
+        "reason": "adjustment",
+        "createdAt": "2025-11-13T23:19:17.021000"
+    },
+    {
+        "_id": "691667753ea03640d1dd05f9",
+        "bookId": "691667743ea03640d1dd051c",
+        "vendorId": "691667743ea03640d1dd04eb",
+        "delta": 5,
+        "reason": "restock",
+        "createdAt": "2025-11-13T23:19:17.021000"
+    },
+    {
+        "_id": "691667753ea03640d1dd05fa",
+        "bookId": "691667743ea03640d1dd0505",
+        "vendorId": "691667743ea03640d1dd04eb",
+        "delta": 4,
+        "reason": "restock",
+        "createdAt": "2025-11-13T23:19:17.021000"
+    }
+]
